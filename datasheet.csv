@@ -1,2 +1,26 @@
-,Name,Email,Badges,Introduction to Kotlin,First App in Android Studio,Build Basic Layout,Dice Roller App,Get User Input 1,Get User Input 2,Scroll List,Navigation Screen,Navigation Components,Architecture Components,Navigation App,Coroutine,Display Internet,SQL,Data Persistence,Work Manager,Score Out of 16,All Badges
-0,mobin,djsmk123@gmail.com,"Get user input in an app: Part 2, Completed 10+ Test Codelabs, Dice Roller App, First App in Android Studio, Introduction to Kotlin, Build a Basic Layout, First Learning Pathway and Quiz badge, Display a Scrollable List, Get user input in an app: Part 1, Attendee I/O '21, Completed 10+ Test Codelabs, Introduction to Kotlin, Attendee I/O '21, ",Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,7,No
+[
+  {
+    "": 0,
+    "Name": "mobin",
+    "Email": "djsmk123@gmail.com",
+    "Badges": "Get user input in an app: Part 2, Completed 10+ Test Codelabs, Dice Roller App, First App in Android Studio, Introduction to Kotlin, Build a Basic Layout, First Learning Pathway and Quiz badge, Display a Scrollable List, Get user input in an app: Part 1, Attendee I/O '21, Completed 10+ Test Codelabs, Introduction to Kotlin, Attendee I/O '21,",
+    "Introduction to Kotlin": "Yes",
+    "First App in Android Studio": "Yes",
+    "Build Basic Layout": "Yes",
+    "Dice Roller App": "Yes",
+    "Get User Input 1": "Yes",
+    "Get User Input 2": "Yes",
+    "Scroll List": "Yes",
+    "Navigation Screen": "No",
+    "Navigation Components": "No",
+    "Architecture Components": "No",
+    "Navigation App": "No",
+    "Coroutine": "No",
+    "Display Internet": "No",
+    "SQL": "No",
+    "Data Persistence": "No",
+    "Work Manager": "No",
+    "Score Out of 16": 7,
+    "All Badges": "No"
+  }
+]
