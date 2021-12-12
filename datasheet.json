@@ -1,5 +1,6 @@
 {
-    data:[
+    data:{
+        [
         {
         "Name": "Nitish Kumar",
         "Email": "nxnitish154@gmail.com",
@@ -484,6 +485,7 @@
         "All Badges": "No"
     }
         ]
+    }
 },
 "time":"6:00 PM"
 }
