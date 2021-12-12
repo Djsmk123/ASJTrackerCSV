@@ -1,28 +1,28 @@
 {
-    "data":[
+    "data": [
         {
-        "Name": "Nitish Kumar",
-        "Email": "nxnitish154@gmail.com",
-        "Badges": "",
-        "Introduction to Kotlin": "No",
-        "First App in Android Studio": "No",
-        "Build Basic Layout": "No",
-        "Dice Roller App": "No",
-        "Get User Input 1": "No",
-        "Get User Input 2": "No",
-        "Scroll List": "No",
-        "Navigation Screen": "No",
-        "Navigation Components": "No",
-        "Architecture Components": "No",
-        "Navigation App": "No",
-        "Coroutine": "No",
-        "Display Internet": "No",
-        "SQL": "No",
-        "Data Persistence": "No",
-        "Work Manager": "No",
-        "Score Out of 16": 0,
-        "All Badges": "No"
-    }
-       ],
-"time":"6:00 PM"
+            "Name": "Nitish Kumar",
+            "Email": "nxnitish154@gmail.com",
+            "Badges": "",
+            "Introduction to Kotlin": "No",
+            "First App in Android Studio": "No",
+            "Build Basic Layout": "No",
+            "Dice Roller App": "No",
+            "Get User Input 1": "No",
+            "Get User Input 2": "No",
+            "Scroll List": "No",
+            "Navigation Screen": "No",
+            "Navigation Components": "No",
+            "Architecture Components": "No",
+            "Navigation App": "No",
+            "Coroutine": "No",
+            "Display Internet": "No",
+            "SQL": "No",
+            "Data Persistence": "No",
+            "Work Manager": "No",
+            "Score Out of 16": 0,
+            "All Badges": "No"
+        }
+    ],
+    "time": "12/12/2021 20:33:22"
 }
