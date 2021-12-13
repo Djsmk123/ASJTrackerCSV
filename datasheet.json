@@ -164,9 +164,9 @@
         {
             "Name": "PRANSHU JAIN",
             "Email": "pranshujain0221@gmail.com",
-            "Badges": "",
-            "Introduction to Kotlin": "No",
-            "First App in Android Studio": "No",
+            "Badges": "Completed 5+ Codelab, First App in Android Studio, First Learning Pathway and Quiz badge, Introduction to Kotlin, Created Google Developer Profile, Android Studio User, ",
+            "Introduction to Kotlin": "Yes",
+            "First App in Android Studio": "Yes",
             "Build Basic Layout": "No",
             "Dice Roller App": "No",
             "Get User Input 1": "No",
@@ -181,7 +181,7 @@
             "SQL": "No",
             "Data Persistence": "No",
             "Work Manager": "No",
-            "Score Out of 16": 0,
+            "Score Out of 16": 2,
             "All Badges": "No"
         },
         {
@@ -530,5 +530,5 @@
             "All Badges": "No"
         }
     ],
-    "time": "13/12/2021 10:30:58"
+    "time": "13/12/2021 12:57:53"
 }
