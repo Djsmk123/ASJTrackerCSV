@@ -348,11 +348,11 @@
         {
             "Name": "Deepanshu",
             "Email": "semwaldeepanshu@gmail.com",
-            "Badges": "",
-            "Introduction to Kotlin": "No",
-            "First App in Android Studio": "No",
-            "Build Basic Layout": "No",
-            "Dice Roller App": "No",
+            "Badges": "Build a Basic Layout, Introduction to Kotlin, First App in Android Studio, Created Google Developer Profile, Completed 5+ Codelab, Android Studio User, First Learning Pathway and Quiz badge, Dice Roller App, ",
+            "Introduction to Kotlin": "Yes",
+            "First App in Android Studio": "Yes",
+            "Build Basic Layout": "Yes",
+            "Dice Roller App": "Yes",
             "Get User Input 1": "No",
             "Get User Input 2": "No",
             "Scroll List": "No",
@@ -365,7 +365,7 @@
             "SQL": "No",
             "Data Persistence": "No",
             "Work Manager": "No",
-            "Score Out of 16": 0,
+            "Score Out of 16": 4,
             "All Badges": "No"
         },
         {
@@ -530,5 +530,5 @@
             "All Badges": "No"
         }
     ],
-    "time": "14/12/2021 11:00:04"
+    "time": "16/12/2021 11:00:02"
 }
