@@ -310,8 +310,8 @@
         },
         {
             "Name": "Aashi Aggarwal",
-            "Badges": "Created Google Developer Profile, ",
-            "Introduction to Kotlin": "No",
+            "Badges": "Created Google Developer Profile, Completed 1+ Test Codelab, Android Studio User, Introduction to Kotlin, First Learning Pathway and Quiz badge, ",
+            "Introduction to Kotlin": "Yes",
             "First App in Android Studio": "No",
             "Build Basic Layout": "No",
             "Dice Roller App": "No",
@@ -327,7 +327,7 @@
             "SQL": "No",
             "Data Persistence": "No",
             "Work Manager": "No",
-            "Score Out of 16": 0,
+            "Score Out of 16": 1,
             "All Badges": "No"
         },
         {
@@ -573,5 +573,5 @@
             "All Badges": "No"
         }
     ],
-    "time": "16/12/2021 12:57:50"
+    "time": "17/12/2021 11:00:05"
 }
