@@ -2,7 +2,7 @@
     "data": [
         {
             "Name": "Aditya katyal",
-            "Badges": "Created Google Developer Profile, ",
+            "Badges": "",
             "Introduction to Kotlin": "No",
             "First App in Android Studio": "No",
             "Build Basic Layout": "No",
@@ -90,7 +90,7 @@
         },
         {
             "Name": "Ashish",
-            "Badges": "Android SDK Platform Tools, Google Developer Profile Beta User, Created Google Developer Profile, Completed 1+ Test Codelab, Android Studio User, Created Google Developer Profile, Google Developer Profile Beta User, ",
+            "Badges": "",
             "Introduction to Kotlin": "No",
             "First App in Android Studio": "No",
             "Build Basic Layout": "No",
@@ -156,9 +156,9 @@
         },
         {
             "Name": "PRANSHU JAIN",
-            "Badges": "",
-            "Introduction to Kotlin": "No",
-            "First App in Android Studio": "No",
+            "Badges": "Completed 5+ Codelab, First App in Android Studio, First Learning Pathway and Quiz badge, Introduction to Kotlin, Created Google Developer Profile, Android Studio User, ",
+            "Introduction to Kotlin": "Yes",
+            "First App in Android Studio": "Yes",
             "Build Basic Layout": "No",
             "Dice Roller App": "No",
             "Get User Input 1": "No",
@@ -173,7 +173,7 @@
             "SQL": "No",
             "Data Persistence": "No",
             "Work Manager": "No",
-            "Score Out of 16": 0,
+            "Score Out of 16": 2,
             "All Badges": "No"
         },
         {
@@ -376,7 +376,7 @@
         },
         {
             "Name": "Kshitij Sharma",
-            "Badges": "",
+            "Badges": "Created Google Developer Profile, Android Study Jams participant, Android Studio User, Google Developer Profile Beta User, Attendee I/O '21, Adventurer I/O '21, Android Study Jams participant, Attendee I/O '21, ",
             "Introduction to Kotlin": "No",
             "First App in Android Studio": "No",
             "Build Basic Layout": "No",
@@ -398,7 +398,7 @@
         },
         {
             "Name": "Deepak Kumar",
-            "Badges": "Created Google Developer Profile, ",
+            "Badges": "",
             "Introduction to Kotlin": "No",
             "First App in Android Studio": "No",
             "Build Basic Layout": "No",
@@ -420,7 +420,7 @@
         },
         {
             "Name": "Vanshika Bhatia",
-            "Badges": "Created Google Developer Profile, Android Studio User, ",
+            "Badges": "",
             "Introduction to Kotlin": "No",
             "First App in Android Studio": "No",
             "Build Basic Layout": "No",
@@ -442,7 +442,7 @@
         },
         {
             "Name": "Anurag Kainth",
-            "Badges": "Created Google Developer Profile, ",
+            "Badges": "",
             "Introduction to Kotlin": "No",
             "First App in Android Studio": "No",
             "Build Basic Layout": "No",
@@ -486,10 +486,10 @@
         },
         {
             "Name": "Abhishek Singh",
-            "Badges": "",
-            "Introduction to Kotlin": "No",
-            "First App in Android Studio": "No",
-            "Build Basic Layout": "No",
+            "Badges": "Introduction to Kotlin, Build a Basic Layout, Completed 5+ Codelab, Created Google Developer Profile, First App in Android Studio, First Learning Pathway and Quiz badge, Android Studio User, ",
+            "Introduction to Kotlin": "Yes",
+            "First App in Android Studio": "Yes",
+            "Build Basic Layout": "Yes",
             "Dice Roller App": "No",
             "Get User Input 1": "No",
             "Get User Input 2": "No",
@@ -503,7 +503,7 @@
             "SQL": "No",
             "Data Persistence": "No",
             "Work Manager": "No",
-            "Score Out of 16": 0,
+            "Score Out of 16": 3,
             "All Badges": "No"
         },
         {
@@ -530,9 +530,9 @@
         },
         {
             "Name": "Viruj Thakur",
-            "Badges": "Created Google Developer Profile, ",
-            "Introduction to Kotlin": "No",
-            "First App in Android Studio": "No",
+            "Badges": "First Learning Pathway and Quiz badge, First App in Android Studio, Introduction to Kotlin, Completed 5+ Codelab, Android Studio User, Created Google Developer Profile, ",
+            "Introduction to Kotlin": "Yes",
+            "First App in Android Studio": "Yes",
             "Build Basic Layout": "No",
             "Dice Roller App": "No",
             "Get User Input 1": "No",
@@ -547,15 +547,15 @@
             "SQL": "No",
             "Data Persistence": "No",
             "Work Manager": "No",
-            "Score Out of 16": 0,
+            "Score Out of 16": 2,
             "All Badges": "No"
         },
         {
             "Name": "Yukti Sethi",
-            "Badges": "",
-            "Introduction to Kotlin": "No",
-            "First App in Android Studio": "No",
-            "Build Basic Layout": "No",
+            "Badges": "First App in Android Studio, First Learning Pathway and Quiz badge, Introduction to Kotlin, Build a Basic Layout, Android Studio User, Completed 5+ Codelab, Created Google Developer Profile, ",
+            "Introduction to Kotlin": "Yes",
+            "First App in Android Studio": "Yes",
+            "Build Basic Layout": "Yes",
             "Dice Roller App": "No",
             "Get User Input 1": "No",
             "Get User Input 2": "No",
@@ -569,9 +569,9 @@
             "SQL": "No",
             "Data Persistence": "No",
             "Work Manager": "No",
-            "Score Out of 16": 0,
+            "Score Out of 16": 3,
             "All Badges": "No"
         }
     ],
-    "time": "18/12/2021 11:00:03"
+    "time": "19/12/2021 11:00:17"
 }
