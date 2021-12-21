@@ -486,12 +486,12 @@
         },
         {
             "Name": "Abhishek Singh",
-            "Badges": "Introduction to Kotlin, Build a Basic Layout, Completed 10+ Test Codelabs, Created Google Developer Profile, First App in Android Studio, First Learning Pathway and Quiz badge, Android Studio User, ",
+            "Badges": "Introduction to Kotlin, Build a Basic Layout, Dice Roller App, Get user input in an app: Part 1, Completed 10+ Test Codelabs, Created Google Developer Profile, First App in Android Studio, First Learning Pathway and Quiz badge, Android Studio User, ",
             "Introduction to Kotlin": "Yes",
             "First App in Android Studio": "Yes",
             "Build Basic Layout": "Yes",
-            "Dice Roller App": "No",
-            "Get User Input 1": "No",
+            "Dice Roller App": "Yes",
+            "Get User Input 1": "Yes",
             "Get User Input 2": "No",
             "Scroll List": "No",
             "Navigation Screen": "No",
@@ -503,7 +503,7 @@
             "SQL": "No",
             "Data Persistence": "No",
             "Work Manager": "No",
-            "Score Out of 16": 3,
+            "Score Out of 16": 5,
             "All Badges": "No"
         },
         {
@@ -530,11 +530,11 @@
         },
         {
             "Name": "Viruj Thakur",
-            "Badges": "First Learning Pathway and Quiz badge, First App in Android Studio, Introduction to Kotlin, Completed 10+ Test Codelabs, Build a Basic Layout, Android Studio User, Created Google Developer Profile, ",
+            "Badges": "First Learning Pathway and Quiz badge, First App in Android Studio, Dice Roller App, Introduction to Kotlin, Completed 10+ Test Codelabs, Build a Basic Layout, Android Studio User, Created Google Developer Profile, ",
             "Introduction to Kotlin": "Yes",
             "First App in Android Studio": "Yes",
             "Build Basic Layout": "Yes",
-            "Dice Roller App": "No",
+            "Dice Roller App": "Yes",
             "Get User Input 1": "No",
             "Get User Input 2": "No",
             "Scroll List": "No",
@@ -547,7 +547,7 @@
             "SQL": "No",
             "Data Persistence": "No",
             "Work Manager": "No",
-            "Score Out of 16": 3,
+            "Score Out of 16": 4,
             "All Badges": "No"
         },
         {
@@ -573,5 +573,5 @@
             "All Badges": "No"
         }
     ],
-    "time": "20/12/2021 11:00:04"
+    "time": "21/12/2021 11:00:08"
 }
