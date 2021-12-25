@@ -2,7 +2,7 @@
     "data": [
         {
             "Name": "Aditya katyal",
-            "Badges": "Created Google Developer Profile, ",
+            "Badges": "",
             "Introduction to Kotlin": "No",
             "First App in Android Studio": "No",
             "Build Basic Layout": "No",
@@ -90,7 +90,7 @@
         },
         {
             "Name": "Ashish",
-            "Badges": "",
+            "Badges": "Android SDK Platform Tools, Google Developer Profile Beta User, Created Google Developer Profile, Completed 1+ Test Codelab, Android Studio User, Created Google Developer Profile, Google Developer Profile Beta User, ",
             "Introduction to Kotlin": "No",
             "First App in Android Studio": "No",
             "Build Basic Layout": "No",
@@ -222,7 +222,7 @@
         },
         {
             "Name": "Garvit Gandhi",
-            "Badges": "Android Studio User, Created Google Developer Profile, ",
+            "Badges": "",
             "Introduction to Kotlin": "No",
             "First App in Android Studio": "No",
             "Build Basic Layout": "No",
@@ -573,5 +573,5 @@
             "All Badges": "No"
         }
     ],
-    "time": "24/12/2021 11:00:03"
+    "time": "25/12/2021 11:00:04"
 }
