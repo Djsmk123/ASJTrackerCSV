@@ -508,25 +508,25 @@
         },
         {
             "Name": "Mobin",
-            "Badges": "Coroutines, Get user input in an app: Part 2, Room for data persistence, Completed 25+ Test Codelabs, Dice Roller App, First App in Android Studio, Introduction to Kotlin, Architecture components, Advanced navigation app examples, Introduction to the Navigation component, Build a Basic Layout, Get and display data from the internet, Schedule tasks with WorkManager, Introduction to SQL, Room, and Flow, First Learning Pathway and Quiz badge, Navigate between screens, Display a Scrollable List, Get user input in an app: Part 1, Attendee I/O '21, Advanced navigation app examples, Coroutines, Completed 25+ Test Codelabs, Introduction to Kotlin, Attendee I/O '21, ",
-            "Introduction to Kotlin": "Yes",
-            "First App in Android Studio": "Yes",
-            "Build Basic Layout": "Yes",
-            "Dice Roller App": "Yes",
-            "Get User Input 1": "Yes",
-            "Get User Input 2": "Yes",
-            "Scroll List": "Yes",
-            "Navigation Screen": "Yes",
-            "Navigation Components": "Yes",
-            "Architecture Components": "Yes",
-            "Navigation App": "Yes",
-            "Coroutine": "Yes",
-            "Display Internet": "Yes",
-            "SQL": "Yes",
-            "Data Persistence": "Yes",
-            "Work Manager": "Yes",
-            "Score Out of 16": 16,
-            "All Badges": "Yes"
+            "Badges": "",
+            "Introduction to Kotlin": "No",
+            "First App in Android Studio": "No",
+            "Build Basic Layout": "No",
+            "Dice Roller App": "No",
+            "Get User Input 1": "No",
+            "Get User Input 2": "No",
+            "Scroll List": "No",
+            "Navigation Screen": "No",
+            "Navigation Components": "No",
+            "Architecture Components": "No",
+            "Navigation App": "No",
+            "Coroutine": "No",
+            "Display Internet": "No",
+            "SQL": "No",
+            "Data Persistence": "No",
+            "Work Manager": "No",
+            "Score Out of 16": 0,
+            "All Badges": "No"
         },
         {
             "Name": "Viruj Thakur",
@@ -573,5 +573,5 @@
             "All Badges": "No"
         }
     ],
-    "time": "28/12/2021 11:00:03"
+    "time": "29/12/2021 11:00:05"
 }
