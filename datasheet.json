@@ -486,14 +486,14 @@
         },
         {
             "Name": "Abhishek Singh",
-            "Badges": "Introduction to Kotlin, Build a Basic Layout, Dice Roller App, Get user input in an app: Part 1, Completed 10+ Test Codelabs, Created Google Developer Profile, First App in Android Studio, First Learning Pathway and Quiz badge, Android Studio User, Get user input in an app: Part 2, ",
+            "Badges": "Introduction to Kotlin, Display a Scrollable List, Build a Basic Layout, Dice Roller App, Get user input in an app: Part 1, Completed 25+ Test Codelabs, Created Google Developer Profile, First App in Android Studio, First Learning Pathway and Quiz badge, Android Studio User, Get user input in an app: Part 2, ",
             "Introduction to Kotlin": "Yes",
             "First App in Android Studio": "Yes",
             "Build Basic Layout": "Yes",
             "Dice Roller App": "Yes",
             "Get User Input 1": "Yes",
             "Get User Input 2": "Yes",
-            "Scroll List": "No",
+            "Scroll List": "Yes",
             "Navigation Screen": "No",
             "Navigation Components": "No",
             "Architecture Components": "No",
@@ -503,7 +503,7 @@
             "SQL": "No",
             "Data Persistence": "No",
             "Work Manager": "No",
-            "Score Out of 16": 6,
+            "Score Out of 16": 7,
             "All Badges": "No"
         },
         {
@@ -573,5 +573,5 @@
             "All Badges": "No"
         }
     ],
-    "time": "29/12/2021 22:20:36"
+    "time": "30/12/2021 11:00:04"
 }
