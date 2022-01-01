@@ -310,9 +310,9 @@
         },
         {
             "Name": "Aashi Aggarwal",
-            "Badges": "Created Google Developer Profile, Completed 1+ Test Codelab, Android Studio User, Introduction to Kotlin, First Learning Pathway and Quiz badge, ",
+            "Badges": "Created Google Developer Profile, Completed 1+ Test Codelab, Android Studio User, Introduction to Kotlin, First Learning Pathway and Quiz badge, First App in Android Studio, ",
             "Introduction to Kotlin": "Yes",
-            "First App in Android Studio": "No",
+            "First App in Android Studio": "Yes",
             "Build Basic Layout": "No",
             "Dice Roller App": "No",
             "Get User Input 1": "No",
@@ -327,7 +327,7 @@
             "SQL": "No",
             "Data Persistence": "No",
             "Work Manager": "No",
-            "Score Out of 16": 1,
+            "Score Out of 16": 2,
             "All Badges": "No"
         },
         {
@@ -442,9 +442,9 @@
         },
         {
             "Name": "Anurag Kainth",
-            "Badges": "Completed 5+ Codelab, Created Google Developer Profile, First Learning Pathway and Quiz badge, Introduction to Kotlin, ",
+            "Badges": "Completed 5+ Codelab, Created Google Developer Profile, First App in Android Studio, First Learning Pathway and Quiz badge, Introduction to Kotlin, ",
             "Introduction to Kotlin": "Yes",
-            "First App in Android Studio": "No",
+            "First App in Android Studio": "Yes",
             "Build Basic Layout": "No",
             "Dice Roller App": "No",
             "Get User Input 1": "No",
@@ -459,7 +459,7 @@
             "SQL": "No",
             "Data Persistence": "No",
             "Work Manager": "No",
-            "Score Out of 16": 1,
+            "Score Out of 16": 2,
             "All Badges": "No"
         },
         {
@@ -530,7 +530,7 @@
         },
         {
             "Name": "Viruj Thakur",
-            "Badges": "Get user input in an app: Part 1, First Learning Pathway and Quiz badge, First App in Android Studio, Dice Roller App, Introduction to Kotlin, Completed 25+ Test Codelabs, Build a Basic Layout, Android Studio User, Created Google Developer Profile, Get user input in an app: Part 2, Display a Scrollable List, ",
+            "Badges": "Get user input in an app: Part 1, First Learning Pathway and Quiz badge, First App in Android Studio, Dice Roller App, Navigate between screens, Introduction to Kotlin, Completed 25+ Test Codelabs, Build a Basic Layout, Android Studio User, Created Google Developer Profile, Get user input in an app: Part 2, Display a Scrollable List, ",
             "Introduction to Kotlin": "Yes",
             "First App in Android Studio": "Yes",
             "Build Basic Layout": "Yes",
@@ -538,7 +538,7 @@
             "Get User Input 1": "Yes",
             "Get User Input 2": "Yes",
             "Scroll List": "Yes",
-            "Navigation Screen": "No",
+            "Navigation Screen": "Yes",
             "Navigation Components": "No",
             "Architecture Components": "No",
             "Navigation App": "No",
@@ -547,7 +547,7 @@
             "SQL": "No",
             "Data Persistence": "No",
             "Work Manager": "No",
-            "Score Out of 16": 7,
+            "Score Out of 16": 8,
             "All Badges": "No"
         },
         {
@@ -573,5 +573,5 @@
             "All Badges": "No"
         }
     ],
-    "time": "01/01/2022 11:00:04"
+    "time": "01/01/2022 20:49:04"
 }
