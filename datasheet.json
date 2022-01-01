@@ -354,14 +354,14 @@
         },
         {
             "Name": "Aditya Anurag",
-            "Badges": "Dice Roller App, Get user input in an app: Part 2, Kotlin Fundamentals: Build an interactive app, Kotlin Fundamentals: Build your first app, Kotlin Fundamentals: Navigation, Navigate between screens, Introduction to the Navigation component, Get user input in an app: Part 1, Architecture components, Build a Basic Layout, Kotlin Fundamentals: Architecture components, Android Study Jams participant, Kotlin Fundamentals: Connect to the internet, Introduction to Kotlin, Completed 50+ Test Codelabs, Kotlin Fundamentals: Databases and RecyclerView, 2020 - 2021 Developer Student Club Member, First Learning Pathway and Quiz badge, Created Google Developer Profile, Kotlin Fundamentals: Layouts, Kotlin Fundamentals: Activity and fragment lifecycles, Kotlin Fundamentals: Design for everyone, First App in Android Studio, Advanced navigation app examples, Kotlin Fundamentals: Repository and WorkManager, ",
+            "Badges": "Dice Roller App, Get user input in an app: Part 2, Kotlin Fundamentals: Build an interactive app, Kotlin Fundamentals: Build your first app, Kotlin Fundamentals: Navigation, Navigate between screens, Introduction to the Navigation component, Get user input in an app: Part 1, Architecture components, Build a Basic Layout, Kotlin Fundamentals: Architecture components, Display a Scrollable List, Android Study Jams participant, Kotlin Fundamentals: Connect to the internet, Introduction to Kotlin, Completed 50+ Test Codelabs, Kotlin Fundamentals: Databases and RecyclerView, 2020 - 2021 Developer Student Club Member, First Learning Pathway and Quiz badge, Created Google Developer Profile, Kotlin Fundamentals: Layouts, Kotlin Fundamentals: Activity and fragment lifecycles, Kotlin Fundamentals: Design for everyone, First App in Android Studio, Advanced navigation app examples, Kotlin Fundamentals: Repository and WorkManager, ",
             "Introduction to Kotlin": "Yes",
             "First App in Android Studio": "Yes",
             "Build Basic Layout": "Yes",
             "Dice Roller App": "Yes",
             "Get User Input 1": "Yes",
             "Get User Input 2": "Yes",
-            "Scroll List": "No",
+            "Scroll List": "Yes",
             "Navigation Screen": "Yes",
             "Navigation Components": "Yes",
             "Architecture Components": "Yes",
@@ -371,7 +371,7 @@
             "SQL": "No",
             "Data Persistence": "No",
             "Work Manager": "Yes",
-            "Score Out of 16": 11,
+            "Score Out of 16": 12,
             "All Badges": "No"
         },
         {
@@ -442,8 +442,8 @@
         },
         {
             "Name": "Anurag Kainth",
-            "Badges": "Completed 1+ Test Codelab, Created Google Developer Profile, ",
-            "Introduction to Kotlin": "No",
+            "Badges": "Completed 5+ Codelab, Created Google Developer Profile, First Learning Pathway and Quiz badge, Introduction to Kotlin, ",
+            "Introduction to Kotlin": "Yes",
             "First App in Android Studio": "No",
             "Build Basic Layout": "No",
             "Dice Roller App": "No",
@@ -459,7 +459,7 @@
             "SQL": "No",
             "Data Persistence": "No",
             "Work Manager": "No",
-            "Score Out of 16": 0,
+            "Score Out of 16": 1,
             "All Badges": "No"
         },
         {
@@ -573,5 +573,5 @@
             "All Badges": "No"
         }
     ],
-    "time": "31/12/2021 11:00:03"
+    "time": "01/01/2022 11:00:04"
 }
