@@ -354,24 +354,24 @@
         },
         {
             "Name": "Aditya Anurag",
-            "Badges": "Dice Roller App, Get user input in an app: Part 2, Kotlin Fundamentals: Build an interactive app, Kotlin Fundamentals: Build your first app, Kotlin Fundamentals: Navigation, Navigate between screens, Introduction to the Navigation component, Get user input in an app: Part 1, Architecture components, Build a Basic Layout, Kotlin Fundamentals: Architecture components, Display a Scrollable List, Android Study Jams participant, Kotlin Fundamentals: Connect to the internet, Introduction to Kotlin, Completed 50+ Test Codelabs, Kotlin Fundamentals: Databases and RecyclerView, 2020 - 2021 Developer Student Club Member, First Learning Pathway and Quiz badge, Created Google Developer Profile, Kotlin Fundamentals: Layouts, Kotlin Fundamentals: Activity and fragment lifecycles, Kotlin Fundamentals: Design for everyone, First App in Android Studio, Advanced navigation app examples, Kotlin Fundamentals: Repository and WorkManager, ",
-            "Introduction to Kotlin": "Yes",
-            "First App in Android Studio": "Yes",
-            "Build Basic Layout": "Yes",
-            "Dice Roller App": "Yes",
-            "Get User Input 1": "Yes",
-            "Get User Input 2": "Yes",
-            "Scroll List": "Yes",
-            "Navigation Screen": "Yes",
-            "Navigation Components": "Yes",
-            "Architecture Components": "Yes",
-            "Navigation App": "Yes",
+            "Badges": "",
+            "Introduction to Kotlin": "No",
+            "First App in Android Studio": "No",
+            "Build Basic Layout": "No",
+            "Dice Roller App": "No",
+            "Get User Input 1": "No",
+            "Get User Input 2": "No",
+            "Scroll List": "No",
+            "Navigation Screen": "No",
+            "Navigation Components": "No",
+            "Architecture Components": "No",
+            "Navigation App": "No",
             "Coroutine": "No",
             "Display Internet": "No",
             "SQL": "No",
             "Data Persistence": "No",
-            "Work Manager": "Yes",
-            "Score Out of 16": 12,
+            "Work Manager": "No",
+            "Score Out of 16": 0,
             "All Badges": "No"
         },
         {
@@ -573,5 +573,5 @@
             "All Badges": "No"
         }
     ],
-    "time": "01/01/2022 20:49:04"
+    "time": "02/01/2022 11:00:04"
 }
