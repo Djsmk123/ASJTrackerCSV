@@ -112,7 +112,7 @@
         },
         {
             "Name": "Ishaan Bhugra",
-            "Badges": "Completed 10+ Test Codelabs, First App in Android Studio, Navigate between screens, Get user input in an app: Part 2, Dice Roller App, Build a Basic Layout, Android Studio User, First Learning Pathway and Quiz badge, Get user input in an app: Part 1, Created Google Developer Profile, Introduction to the Navigation component, Architecture components, Introduction to Kotlin, Display a Scrollable List, ",
+            "Badges": "Completed 10+ Codelabs, First App in Android Studio, Navigate between screens, Get user input in an app: Part 2, Dice Roller App, Build a Basic Layout, Android Studio User, First Learning Pathway and Quiz badge, Get user input in an app: Part 1, Created Google Developer Profile, Introduction to the Navigation component, Architecture components, Introduction to Kotlin, Display a Scrollable List, ",
             "Introduction to Kotlin": "Yes",
             "First App in Android Studio": "Yes",
             "Build Basic Layout": "Yes",
@@ -200,7 +200,7 @@
         },
         {
             "Name": "Rohit Gupta",
-            "Badges": "Build a Basic Layout, First Learning Pathway and Quiz badge, Get user input in an app: Part 1, Completed 10+ Test Codelabs, Android Studio User, Introduction to Kotlin, Get user input in an app: Part 2, Dice Roller App, Attendee I/O '21, First App in Android Studio, Android Studio User, Attendee I/O '21, ",
+            "Badges": "Build a Basic Layout, First Learning Pathway and Quiz badge, Get user input in an app: Part 1, Completed 10+ Codelabs, Android Studio User, Introduction to Kotlin, Get user input in an app: Part 2, Dice Roller App, Attendee I/O '21, First App in Android Studio, Android Studio User, Attendee I/O '21, ",
             "Introduction to Kotlin": "Yes",
             "First App in Android Studio": "Yes",
             "Build Basic Layout": "Yes",
@@ -332,7 +332,7 @@
         },
         {
             "Name": "Deepanshu",
-            "Badges": "Get user input in an app: Part 2, Build a Basic Layout, Introduction to Kotlin, Display a Scrollable List, Get user input in an app: Part 1, First App in Android Studio, Created Google Developer Profile, Completed 10+ Test Codelabs, Android Studio User, First Learning Pathway and Quiz badge, Dice Roller App, ",
+            "Badges": "Get user input in an app: Part 2, Build a Basic Layout, Introduction to Kotlin, Display a Scrollable List, Get user input in an app: Part 1, First App in Android Studio, Created Google Developer Profile, Completed 10+ Codelabs, Android Studio User, First Learning Pathway and Quiz badge, Dice Roller App, ",
             "Introduction to Kotlin": "Yes",
             "First App in Android Studio": "Yes",
             "Build Basic Layout": "Yes",
@@ -354,24 +354,24 @@
         },
         {
             "Name": "Aditya Anurag",
-            "Badges": "Dice Roller App, Get user input in an app: Part 2, Kotlin Fundamentals: Build an interactive app, Kotlin Fundamentals: Build your first app, Kotlin Fundamentals: Navigation, Navigate between screens, Introduction to the Navigation component, Get user input in an app: Part 1, Architecture components, Build a Basic Layout, Kotlin Fundamentals: Architecture components, Display a Scrollable List, Android Study Jams participant, Kotlin Fundamentals: Connect to the internet, Introduction to Kotlin, Completed 50+ Test Codelabs, Kotlin Fundamentals: Databases and RecyclerView, 2020 - 2021 Developer Student Club Member, First Learning Pathway and Quiz badge, Created Google Developer Profile, Kotlin Fundamentals: Layouts, Kotlin Fundamentals: Activity and fragment lifecycles, Kotlin Fundamentals: Design for everyone, First App in Android Studio, Advanced navigation app examples, Kotlin Fundamentals: Repository and WorkManager, ",
-            "Introduction to Kotlin": "Yes",
-            "First App in Android Studio": "Yes",
-            "Build Basic Layout": "Yes",
-            "Dice Roller App": "Yes",
-            "Get User Input 1": "Yes",
-            "Get User Input 2": "Yes",
-            "Scroll List": "Yes",
-            "Navigation Screen": "Yes",
-            "Navigation Components": "Yes",
-            "Architecture Components": "Yes",
-            "Navigation App": "Yes",
+            "Badges": "",
+            "Introduction to Kotlin": "No",
+            "First App in Android Studio": "No",
+            "Build Basic Layout": "No",
+            "Dice Roller App": "No",
+            "Get User Input 1": "No",
+            "Get User Input 2": "No",
+            "Scroll List": "No",
+            "Navigation Screen": "No",
+            "Navigation Components": "No",
+            "Architecture Components": "No",
+            "Navigation App": "No",
             "Coroutine": "No",
             "Display Internet": "No",
             "SQL": "No",
             "Data Persistence": "No",
-            "Work Manager": "Yes",
-            "Score Out of 16": 12,
+            "Work Manager": "No",
+            "Score Out of 16": 0,
             "All Badges": "No"
         },
         {
@@ -442,10 +442,10 @@
         },
         {
             "Name": "Anurag Kainth",
-            "Badges": "Completed 5+ Codelab, Created Google Developer Profile, First App in Android Studio, First Learning Pathway and Quiz badge, Introduction to Kotlin, ",
+            "Badges": "Completed 5+ Codelab, Created Google Developer Profile, First App in Android Studio, First Learning Pathway and Quiz badge, Introduction to Kotlin, Build a Basic Layout, ",
             "Introduction to Kotlin": "Yes",
             "First App in Android Studio": "Yes",
-            "Build Basic Layout": "No",
+            "Build Basic Layout": "Yes",
             "Dice Roller App": "No",
             "Get User Input 1": "No",
             "Get User Input 2": "No",
@@ -459,7 +459,7 @@
             "SQL": "No",
             "Data Persistence": "No",
             "Work Manager": "No",
-            "Score Out of 16": 2,
+            "Score Out of 16": 3,
             "All Badges": "No"
         },
         {
@@ -486,7 +486,7 @@
         },
         {
             "Name": "Abhishek Singh",
-            "Badges": "Introduction to Kotlin, Display a Scrollable List, Build a Basic Layout, Dice Roller App, Get user input in an app: Part 1, Completed 25+ Test Codelabs, Created Google Developer Profile, First App in Android Studio, First Learning Pathway and Quiz badge, Android Studio User, Get user input in an app: Part 2, ",
+            "Badges": "Introduction to Kotlin, Display a Scrollable List, Build a Basic Layout, Dice Roller App, Get user input in an app: Part 1, Completed 25+ Codelabs, Created Google Developer Profile, First App in Android Studio, First Learning Pathway and Quiz badge, Android Studio User, Get user input in an app: Part 2, ",
             "Introduction to Kotlin": "Yes",
             "First App in Android Studio": "Yes",
             "Build Basic Layout": "Yes",
@@ -508,7 +508,7 @@
         },
         {
             "Name": "Mobin",
-            "Badges": "Coroutines, Get user input in an app: Part 2, Room for data persistence, Completed 25+ Test Codelabs, Dice Roller App, First App in Android Studio, Introduction to Kotlin, Architecture components, Advanced navigation app examples, Introduction to the Navigation component, Build a Basic Layout, Get and display data from the internet, Schedule tasks with WorkManager, Introduction to SQL, Room, and Flow, First Learning Pathway and Quiz badge, Navigate between screens, Display a Scrollable List, Get user input in an app: Part 1, Attendee I/O '21, Advanced navigation app examples, Coroutines, Completed 25+ Test Codelabs, Introduction to Kotlin, Attendee I/O '21, ",
+            "Badges": "Coroutines, Get user input in an app: Part 2, Room for data persistence, Completed 25+ Codelabs, Dice Roller App, First App in Android Studio, Introduction to Kotlin, Architecture components, Advanced navigation app examples, Introduction to the Navigation component, Build a Basic Layout, Get and display data from the internet, Schedule tasks with WorkManager, Introduction to SQL, Room, and Flow, First Learning Pathway and Quiz badge, Navigate between screens, Display a Scrollable List, Get user input in an app: Part 1, Attendee I/O '21, Advanced navigation app examples, Coroutines, Completed 25+ Codelabs, Introduction to Kotlin, Attendee I/O '21, ",
             "Introduction to Kotlin": "Yes",
             "First App in Android Studio": "Yes",
             "Build Basic Layout": "Yes",
@@ -530,7 +530,7 @@
         },
         {
             "Name": "Viruj Thakur",
-            "Badges": "Get user input in an app: Part 1, First Learning Pathway and Quiz badge, First App in Android Studio, Dice Roller App, Navigate between screens, Introduction to Kotlin, Completed 25+ Test Codelabs, Build a Basic Layout, Android Studio User, Created Google Developer Profile, Get user input in an app: Part 2, Display a Scrollable List, ",
+            "Badges": "Get user input in an app: Part 1, First Learning Pathway and Quiz badge, First App in Android Studio, Introduction to the Navigation component, Dice Roller App, Navigate between screens, Introduction to Kotlin, Completed 25+ Codelabs, Build a Basic Layout, Android Studio User, Created Google Developer Profile, Get user input in an app: Part 2, Display a Scrollable List, ",
             "Introduction to Kotlin": "Yes",
             "First App in Android Studio": "Yes",
             "Build Basic Layout": "Yes",
@@ -539,7 +539,7 @@
             "Get User Input 2": "Yes",
             "Scroll List": "Yes",
             "Navigation Screen": "Yes",
-            "Navigation Components": "No",
+            "Navigation Components": "Yes",
             "Architecture Components": "No",
             "Navigation App": "No",
             "Coroutine": "No",
@@ -547,12 +547,12 @@
             "SQL": "No",
             "Data Persistence": "No",
             "Work Manager": "No",
-            "Score Out of 16": 8,
+            "Score Out of 16": 9,
             "All Badges": "No"
         },
         {
             "Name": "Yukti Sethi",
-            "Badges": "First App in Android Studio, First Learning Pathway and Quiz badge, Introduction to Kotlin, Build a Basic Layout, Android Studio User, Completed 10+ Test Codelabs, Created Google Developer Profile, ",
+            "Badges": "First App in Android Studio, First Learning Pathway and Quiz badge, Introduction to Kotlin, Build a Basic Layout, Android Studio User, Completed 10+ Codelabs, Created Google Developer Profile, ",
             "Introduction to Kotlin": "Yes",
             "First App in Android Studio": "Yes",
             "Build Basic Layout": "Yes",
@@ -573,5 +573,5 @@
             "All Badges": "No"
         }
     ],
-    "time": "04/01/2022 11:00:04"
+    "time": "06/01/2022 11:00:10"
 }
