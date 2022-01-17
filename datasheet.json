@@ -332,25 +332,25 @@
         },
         {
             "Name": "Deepanshu",
-            "Badges": "Get and display data from the internet, Introduction to SQL, Room, and Flow, Get user input in an app: Part 2, Build a Basic Layout, Coroutines, Introduction to Kotlin, Room for data persistence, Display a Scrollable List, Introduction to the Navigation component, Get user input in an app: Part 1, Navigate between screens, First App in Android Studio, Created Google Developer Profile, Advanced navigation app examples, Completed 10+ Codelabs, Android Studio User, First Learning Pathway and Quiz badge, Architecture components, Schedule tasks with WorkManager, Dice Roller App, ",
-            "Introduction to Kotlin": "Yes",
-            "First App in Android Studio": "Yes",
-            "Build Basic Layout": "Yes",
-            "Dice Roller App": "Yes",
-            "Get User Input 1": "Yes",
-            "Get User Input 2": "Yes",
-            "Scroll List": "Yes",
-            "Navigation Screen": "Yes",
-            "Navigation Components": "Yes",
-            "Architecture Components": "Yes",
-            "Navigation App": "Yes",
-            "Coroutine": "Yes",
-            "Display Internet": "Yes",
-            "SQL": "Yes",
-            "Data Persistence": "Yes",
-            "Work Manager": "Yes",
-            "Score Out of 16": 16,
-            "All Badges": "Yes"
+            "Badges": "",
+            "Introduction to Kotlin": "No",
+            "First App in Android Studio": "No",
+            "Build Basic Layout": "No",
+            "Dice Roller App": "No",
+            "Get User Input 1": "No",
+            "Get User Input 2": "No",
+            "Scroll List": "No",
+            "Navigation Screen": "No",
+            "Navigation Components": "No",
+            "Architecture Components": "No",
+            "Navigation App": "No",
+            "Coroutine": "No",
+            "Display Internet": "No",
+            "SQL": "No",
+            "Data Persistence": "No",
+            "Work Manager": "No",
+            "Score Out of 16": 0,
+            "All Badges": "No"
         },
         {
             "Name": "Aditya Anurag",
@@ -595,5 +595,5 @@
             "All Badges": "No"
         }
     ],
-    "time": "15/01/2022 10:33:16"
+    "time": "17/01/2022 10:57:50"
 }
